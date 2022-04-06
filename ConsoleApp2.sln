@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{4E9FC920-2FA2-4E1D-A277-D1893E9C5D36}"
 EndProject
-Project("{930C7802-8A8C-48F9-8165-68863BCCD9DD}") = "SetupProject1", "SetupProject1\SetupProject1.wixproj", "{A4A7B07E-F2F7-4A15-91BC-207583840370}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,12 +21,6 @@ Global
 		{4E9FC920-2FA2-4E1D-A277-D1893E9C5D36}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4E9FC920-2FA2-4E1D-A277-D1893E9C5D36}.Release|x86.ActiveCfg = Release|Any CPU
 		{4E9FC920-2FA2-4E1D-A277-D1893E9C5D36}.Release|x86.Build.0 = Release|Any CPU
-		{A4A7B07E-F2F7-4A15-91BC-207583840370}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{A4A7B07E-F2F7-4A15-91BC-207583840370}.Debug|x86.ActiveCfg = Debug|x86
-		{A4A7B07E-F2F7-4A15-91BC-207583840370}.Debug|x86.Build.0 = Debug|x86
-		{A4A7B07E-F2F7-4A15-91BC-207583840370}.Release|Any CPU.ActiveCfg = Release|x86
-		{A4A7B07E-F2F7-4A15-91BC-207583840370}.Release|x86.ActiveCfg = Release|x86
-		{A4A7B07E-F2F7-4A15-91BC-207583840370}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
